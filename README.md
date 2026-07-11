@@ -1,4 +1,4 @@
-# Unity Enemy AI State Machine
+<img width="720" height="720" alt="Wander On Dash" src="https://github.com/user-attachments/assets/8f900a2c-4e18-4de2-b545-b1ee79a9b9e2" /># Unity Enemy AI State Machine
 
 A configurable enemy AI system built in Unity using a finite state machine, Unity NavMesh, and weighted decision-making.
 
@@ -44,10 +44,11 @@ This allows multiple enemies using the same script to behave differently without
 
 ## Behavior Examples
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/721a622f-9b6d-48fc-b54f-ffe620794d68" width="48%">
-  <img src="Screenshots/Attack.gif" width="48%">
+  <img src="https://github.com/user-attachments/assets/564d0c6c-64f6-4e1e-aae8-4aeb34f22877" width="32%">
+  <img src="https://github.com/user-attachments/assets/d7e3a7a0-2419-4f3b-9dfb-da62a579cc8b" width="32%">
+  <img src="https://github.com/user-attachments/assets/02972007-0363-4959-9f1f-dfdcb6dbe08a" width="32%">
 </p>
-![Attack Reaction](https://github.com/user-attachments/assets/721a622f-9b6d-48fc-b54f-ffe620794d68)
+
 
 ### Normal Gameplay
 
