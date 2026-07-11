@@ -1,4 +1,4 @@
-<img width="720" height="720" alt="Wander On Dash" src="https://github.com/user-attachments/assets/8f900a2c-4e18-4de2-b545-b1ee79a9b9e2" /># Unity Enemy AI State Machine
+# Unity Enemy AI State Machine
 
 A configurable enemy AI system built in Unity using a finite state machine, Unity NavMesh, and weighted decision-making.
 
