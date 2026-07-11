@@ -47,7 +47,7 @@ This allows multiple enemies using the same script to behave differently without
   <img src="https://github.com/user-attachments/assets/721a622f-9b6d-48fc-b54f-ffe620794d68" width="48%">
   <img src="Screenshots/Attack.gif" width="48%">
 </p>
-https://github.com/user-attachments/assets/721a622f-9b6d-48fc-b54f-ffe620794d68
+![Attack Reaction](https://github.com/user-attachments/assets/721a622f-9b6d-48fc-b54f-ffe620794d68)
 
 ### Normal Gameplay
 
